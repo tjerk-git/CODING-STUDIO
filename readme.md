@@ -91,11 +91,14 @@ The focus should be more on the user experience and less on the technical detail
 - Complete self-assessment
 - Final project polish
 
-### Week 10: Final Assessment
-- Final presentations
+### Week 10: Final
+- Final playtests
 - Project evaluations
 - Submit all documentation
 - Complete assessment requirements
+
+### WEEK 11 and 12 ASSESSMENTS
+
 
 
 # ADAPTERS FOR THE LEARNING OUTCOMES
