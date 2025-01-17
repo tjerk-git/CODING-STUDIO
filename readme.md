@@ -133,6 +133,11 @@ You develop you programs in an incremental way.
 - You create a framework that can be used in a new context
 - You distribute the framework in a way that is appropriate for the programming environment that is used
 
+# SCHOOL RESOURCES
+- [Feedback system](https://app.ffwd.school)
+- [Teachers](https://CMDWLD.com)
+- [CMD Manual](https://newuniversity.sharepoint.com/:f:/r/sites/Group-CMDLWDStudententestomgeving1/Shared%20Documents/General?csf=1&web=1&e=qRhw2D)
+
 
 # RESOURCES & LINKS
 
