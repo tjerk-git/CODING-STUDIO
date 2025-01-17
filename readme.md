@@ -22,13 +22,21 @@ The second 10 weeks are about a team project shared with UX/UI and Coding studio
 We are mainly focusing on web / app development  mainly because it’s a great place to start your coding adventure. We are not a software engineering minor or a degree, we are part of a design school not the IT department.
 
 
-# ESCAPE ROOM PROJECT
+# ESCAPE ROOM PROJECT (First 10 weeks)
 In 10 weeks we will build a escape room experience.
 The escape room experience will be a fun and interactive way to learn to code.
 
 The main infrastructure will be provided by Coding studio.
 And each "team" can create puzzles to be played inside the escape room.
 The escape room is a place where you will be able to experiment with code, learn to code, create a project and get feedback from a team of experts.
+
+
+# CLIENT CASE (Second 10 weeks)
+Together with the UX/UI studio we will create a project for a client.
+You will works in a team of around 6 people.
+
+You will work iteratively in 10 weeks to create a project that will be suitable for the client and for the users.
+The focus should be more on the user experience and less on the technical details, but the lessons learned from the previous 10 weeks will be used to guide the development of the project.
 
 
 # PLANNING OF THE ESCAPE ROOM PROJECT
