@@ -63,12 +63,10 @@
 
 
 
-# RESOURCES
+# RESOURCES & LINKS
 
 - [Raspberry Pi](https://www.raspberrypi.org/)
 - [Raspberry Pi Imager](https://www.raspberrypi.org/software/raspberry-pi-imager/)  
-
-## The Odin Project Links
 - [The Odin Project Homepage](https://www.theodinproject.com/)
 - [Foundations Course](https://www.theodinproject.com/paths/foundations)
 - [Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript)
