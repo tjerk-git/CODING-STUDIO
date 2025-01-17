@@ -2,8 +2,15 @@
 
 **Coding studio has a focus on web and app development. We have a close relationship with the UX/UI studio, our aim is to fix the world by creating small with scalable and durable and human centered projects.**
 
-The first 10 weeks are about a single shared project in duo or solo setup
+The first 10 weeks are about a single shared project in duo or solo setup.
 The second 10 weeks are about a team project shared with UX/UI and Coding studio
+
+# RULES
+
+1. Have fun
+2. Have a good sense of humor
+3. Have a good attitude
+4. Help each other
 
 # OUR PROMISE TO YOU
 
@@ -84,6 +91,9 @@ The escape room is a place where you will be able to experiment with code, learn
 
 
 # ADAPTERS FOR THE LEARNING OUTCOMES
+
+These are the adapters for the create learning outcome.
+For other adapters talk to you mentor.
 
 ## Coding level 1
 
