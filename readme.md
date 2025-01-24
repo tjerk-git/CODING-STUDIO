@@ -5,6 +5,19 @@
 The first 10 weeks are about a single shared project in duo or solo setup.
 The second 10 weeks are about a team project shared with UX/UI and Coding studio
 
+
+# LOCATION
+We are located in the NHl STENDEN R10 building, D.1020
+We share this room with year 4 students.
+
+| Day       | Start  | Teachers         |
+|-----------|-------|------------------|
+| Monday    | 10:00 | Tjerk and Jop   |
+| Tuesday   | 11:00 | Tjerk and Jop   |
+| Wednesday | 10:00 | No teachers      |
+| Thursday  | 10:00 | Tjerk and Jop (afternoon) |
+| Friday    | 10:00 | Tjerk           |
+
 # RULES
 
 1. Have fun
@@ -22,7 +35,8 @@ The second 10 weeks are about a team project shared with UX/UI and Coding studio
 We are mainly focusing on web / app development  mainly because it’s a great place to start your coding adventure. We are not a software engineering minor or a degree, we are part of a design school not the IT department.
 
 
-# ESCAPE ROOM PROJECT (First 10 weeks)
+# ESCAPE ROOM PROJECT (First 7 weeks)
+
 In 10 weeks we will build a escape room experience.
 The escape room experience will be a fun and interactive way to learn to code.
 
@@ -30,75 +44,70 @@ The main infrastructure will be provided by Coding studio.
 And each "team" can create puzzles to be played inside the escape room.
 The escape room is a place where you will be able to experiment with code, learn to code, create a project and get feedback from a team of experts.
 
+Focus on Create, Learn, Research
+
 
 # CLIENT CASE (Second 10 weeks)
+
 Together with the UX/UI studio we will create a project for a client.
 You will works in a team of around 6 people.
 
 You will work iteratively in 10 weeks to create a project that will be suitable for the client and for the users.
 The focus should be more on the user experience and less on the technical details, but the lessons learned from the previous 10 weeks will be used to guide the development of the project.
 
+Focus on Learn, Communicate, Organise, Research
+
 
 # PLANNING OF THE ESCAPE ROOM PROJECT
 
-### Week 1: Introduction Week
+### Week 6: Introduction Week
 - Introduction to what is coding?
 - What does programming mean for us at CMD?
 - What is the setup?
 - Team introductions and intakes
 - Initial concept brainstorming
+- Crazy 8's exercises
 
-### Week 2: Escape Room Experience & Analysis
+### Week 7: Escape Room Experience & Analysis
 - Visit to escape room 
 - Analysis of escape room mechanics and puzzles
 - Document learnings and inspiration
 - Begin concept development
 - Crazy 8's exercises
 
-### Week 3: Rapid Prototyping
+### Week 8: VACATION
+
+### Week 9: Rapid Prototyping
 - Finalize project concept
 - Design initial puzzles
 - Begin technical architecture planning
 - Create first prototype iterations
 
-### Week 4-5: Core Development
+### Week 10-11: Core Development
 - Build project infrastructure
 - Implement core functionalities
 - Begin MQTT communication setup
 - Start developing key puzzle mechanics
 
-### Week 6: Integration
-- Connect all components
-- Implement MQTT communication
-- Create complete game walkthrough
-- Begin testing basic functionality
-
-### Week 7: Testing & Refinement
+### Week 12: Testing & Refinement
 - Conduct initial user testing
 - Debug and refine core features
 - Implement immediate feedback
 - Polish user experience
 
-### Week 8: Final Development
+### Week 13: Integration
+- Connect all components
+- Implement MQTT communication
+- Create complete game walkthrough
+- Begin testing basic functionality
+
+### Week 14: Final Showcase
 - Complete all remaining development tasks
 - Final bug fixes and improvements
 - Polish visual design and interactions
 - Prepare testing documentation
 
-### Week 9: Assessment Preparation
-- Prepare final documentation
-- Create presentation materials
-- Complete self-assessment
-- Final project polish
-
-### Week 10: Final
-- Final playtests
-- Project evaluations
-- Submit all documentation
-- Complete assessment requirements
-
-### WEEK 11 and 12 ASSESSMENTS
-
+### WEEK 15 and 16 ASSESSMENTS
 
 
 # ADAPTERS FOR THE LEARNING OUTCOMES
