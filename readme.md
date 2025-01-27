@@ -15,7 +15,7 @@ We share this room with year 4 students.
 | Monday    | 10:00 | Tjerk and Jop   |
 | Tuesday   | 11:00 | Tjerk and Jop   |
 | Wednesday | 10:00 | No teachers      |
-| Thursday  | 10:00 | Tjerk and Jop (afternoon) |
+| Thursday  | 10:00 | Tjerk (afternoon) |
 | Friday    | 10:00 | Tjerk           |
 
 # RULES
